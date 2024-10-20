@@ -6,12 +6,26 @@ body {
 :root {
     
     /* Sizes */
+    
     /* Header Component */
     --header-width-container-size: 100%;
-    --header-height-container-size: 7rem;
+    --header-height-container-size: 8rem;
     --header-component-section-paddin: 1.5rem;
-    --header-component-image-width: 8rem;
-    --header-component-image-height: 4rem;
+    --header-component-image-width: 11rem;
+    --header-component-image-height: 6rem;
+    /* Footer Component */
+    --footer-width-container-size: 100%;
+    --footer-height-container-size: 9rem;
+    --fotter-image-width: 100%;
+    --fotter-image-height: 9rem;
+    --footer-grid-position: 3/8;
+    /* Block Component */
+    --block-width-container-size: 100%;
+    --block-height-container-size: 10rem;
+    
+    /* Colors */
+    --black-background: #000000;
+    
     /* Fonts */
     // --font-principal-name: "Rubik";
     // --full-stack-font: "Press Start 2P", system-ui;

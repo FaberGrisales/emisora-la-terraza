@@ -1,0 +1,13 @@
+.footer-container {
+    width: var(--footer-width-container-size);
+    height: var(--footer-height-container-size);
+    background-color: var(--black-background);
+    display: grid;
+    grid-template-columns: repeat(9, 5fr);
+}
+
+.footer-image {
+    width: var(--fotter-image-width);
+    height: var(--fotter-image-height);
+    grid-column: var(--footer-grid-position);
+}
