@@ -9,11 +9,11 @@
 .header-section-container {
     display: grid;
     grid-template-columns: repeat(9, 2fr);
-    padding: var(--header-component-section-paddin);
+    padding-top: var(--header-component-section-paddin);
 }
 
 .header-section-image {
-    width: 8rem;
-    height: 4rem;
+    width: var(--header-component-image-width);
+    height: var(--header-component-image-height);
     grid-column: 5 / 6;
 }
