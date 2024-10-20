@@ -1,6 +1,6 @@
-# React SPA Landing Page
+# React App Emisora la Terraza
 
-This project is a Single Page Application (SPA) built with React and TypeScript. It serves as a landing page with five main views: Home, Emission, Gallery, Videos, and AR.
+This project is a Single Page Application (SPA) built with React and TypeScript. It serves as a landing page with five main views: Home, Emission, Gallery, Videos, and Are.
 
 ## Project Structure
 
@@ -33,8 +33,8 @@ tsconfig.json
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/react-spa-landing-page.git
-   cd react-spa-landing-page
+   git clone https://github.com/FaberGrisales/emisora-la-terraza.git
+   cd emisora-la-terraza
    ```
 
 2. Install dependencies:
