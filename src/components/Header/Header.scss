@@ -1,0 +1,19 @@
+.header-container {
+    background-image: url('../../utils/images/components/header.png');
+    width: var(--header-width-container-size);
+    height: var(--header-height-container-size);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-section-container {
+    display: grid;
+    grid-template-columns: repeat(9, 2fr);
+    padding: var(--header-component-section-paddin);
+}
+
+.header-section-image {
+    width: 8rem;
+    height: 4rem;
+    grid-column: 5 / 6;
+}
